@@ -195,10 +195,10 @@ library(twitteR)
 
 ```{r include=FALSE}
 # Set API Keys
-api_key <- "qUieRdpQjDpXbvbsvJR6upXRP"
-api_secret <- "bSexK8RvqCu7wAQqrrzSV7kPp8oySwxTisvdVGALBbZaDIKI3a"
-access_token <- "232263908-8JfnQTXlCnQzs0TiyJuLSB3rEl70B2CJvvPcpUvS"
-access_token_secret <- "dHvdONwFo2XMyTL2UYPI2WRo7Dvp7hG5A9YFR3Vq0858B"
+api_key <- "xxx"
+api_secret <- "xxx"
+access_token <- "xxx"
+access_token_secret <- "xxx"
 setup_twitter_oauth(api_key, api_secret, access_token, access_token_secret)
 ```
 
