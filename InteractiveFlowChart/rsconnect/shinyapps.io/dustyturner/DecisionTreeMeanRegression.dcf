@@ -1,0 +1,13 @@
+name: DecisionTreeMeanRegression
+title: DecisionTreeMeanRegression
+username:
+account: dustyturner
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 483690
+bundleId: 2089063
+url: https://dustyturner.shinyapps.io/DecisionTreeMeanRegression/
+when: 1558010329.53639
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Allison - ASN - 2018 - Regression to the Mean - 003.pptx|appold.R
